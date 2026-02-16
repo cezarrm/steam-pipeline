@@ -1,0 +1,66 @@
+{
+  "response": {
+    "game_count": 7,
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "playtime_forever": 4178,
+        "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          2,
+          5
+        ]
+      },
+      {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "playtime_forever": 620,
+        "img_icon_url": "3ee640a8aba6992678e36f4e40cba9c71c02348b",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 356650,
+        "name": "Death's Gambit: Afterlife",
+        "playtime_forever": 12,
+        "img_icon_url": "19120b38b3bd52313496217bf9921143a5fb9e6a",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "playtime_forever": 899,
+        "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+        "has_community_visible_stats": true,
+        "has_leaderboards": true
+      },
+      {
+        "appid": 894020,
+        "name": "Death's Door",
+        "playtime_forever": 713,
+        "img_icon_url": "d48d2167c15e8d2af57cfbc31228b90e36f4508c",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 990630,
+        "name": "The Last Campfire",
+        "playtime_forever": 100,
+        "img_icon_url": "a6601e3e8776e4c71d20869ae2ca1cad23d41cc0",
+        "has_community_visible_stats": true
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "playtime_forever": 66,
+        "img_icon_url": "4e4ef2862189e1f1d3052125fb1ed6cb42bcaaf8",
+        "has_community_visible_stats": true,
+        "content_descriptorids": [
+          1,
+          2,
+          5
+        ]
+      }
+    ]
+  }
+}
