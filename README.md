@@ -1,4 +1,5 @@
 # Steam Analytics Dashboard
+![Demo do Dashboard](img/dashboard_view.gif)
 
 Projeto de Engenharia de Dados para análise de jogos da Steam,
 utilizando pipeline em Python, MySQL, Docker e Metabase para
@@ -20,7 +21,7 @@ Metabase (Dashboard Interativo)
 
 ------------------------------------------------------------------------
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 -   Python
 -   MySQL 8
@@ -74,7 +75,7 @@ Atenção: Não utilizar -v caso queira manter os dados persistidos.
 
 ------------------------------------------------------------------------
 
-## 🗄 Banco de Dados
+## Banco de Dados
 
 Banco principal:
 
@@ -197,9 +198,7 @@ Análise cruzada entre:
 
 ## Dashboard no Metabase
 
-![Demo do Dashboard](img/dashboard_view.gif)
-
-#### ![Baixar dashboard versão PDF](img/dashboard_metabse_steamAPI)
+#### [Baixar dashboard versão PDF](img/dashboard_metabse_steamAPI)
 
 O dashboard inclui:
 
