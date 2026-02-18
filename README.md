@@ -198,7 +198,7 @@ Análise cruzada entre:
 
 ## Dashboard no Metabase
 
-#### [Baixar dashboard versão PDF](img/dashboard_metabse_steamAPI.pdf)
+#### [Baixar dashboard versão PDF](img/dashboard_metabse_steamAPI-1.pdf)
 
 O dashboard inclui:
 
