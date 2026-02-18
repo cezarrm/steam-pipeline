@@ -10,22 +10,22 @@ visualização interativa.
 
 Pipeline completo:
 
-API / Fonte de Dados/
-↓/
-Python (ETL)/
-↓/
-MySQL (Armazenamento + Views Analíticas)/
-↓/
+API / Fonte de Dados\
+↓\
+Python (ETL)\
+↓\
+MySQL (Armazenamento + Views Analíticas)\
+↓\
 Metabase (Dashboard Interativo)
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tecnologias Utilizadas
 
--   Python/
--   MySQL 8/
--   Docker & Docker Compose/
--   Metabase/
+-   Python
+-   MySQL 8
+-   Docker & Docker Compose
+-   Metabase
 -   SQL (Views analíticas)
 
 ------------------------------------------------------------------------
@@ -112,8 +112,8 @@ Responsável por calcular o total geral de horas jogadas (KPI principal).
 ```
 Inclui:
 
--   Total de jogos/
--   Total de horas/
+-   Total de jogos
+-   Total de horas
 -   Média de horas por jogo
 
 ------------------------------------------------------------------------
@@ -189,8 +189,8 @@ vw_playtime_distribution_by_genre
 ```
 Análise cruzada entre:
 
--   Gênero\
--   Faixa de tempo\
+-   Gênero
+-   Faixa de tempo
 -   Quantidade de jogos
 
 ------------------------------------------------------------------------
@@ -199,38 +199,40 @@ Análise cruzada entre:
 
 ![Demo do Dashboard](img/dashboard_view.gif)
 
+#### ![Baixar dashboard versão PDF](img/dashboard_metabse_steamAPI)
+
 O dashboard inclui:
 
 ### Overview
 
--   Total de jogos/
--   Total de horas/
+-   Total de jogos
+-   Total de horas
 
 ### Análises por Gênero
 
--   Quantidade de jogos por Gênero/
--   Total de horas/
+-   Quantidade de jogos por Gênero
+-   Total de horas
 
 ### Engajamento
 
--   Top 10 Jogos mais jogados/
--   Top 10 Jogos menos jogados/
+-   Top 10 Jogos mais jogados
+-   Top 10 Jogos menos jogados
 -   Jogos mais jogados recentemente
 
 ### Interatividade
 
--   Drill-down por gênero/
+-   Drill-down por gênero
 -   Clique para visualizar jogos individuais
 
 ------------------------------------------------------------------------
 
 ## Conceitos Aplicados
 
--   Modelagem analítica/
--   Normalização de campo multi-valorado/
--   Criação de views para BI/
--   Agregações SQL/
--   Dockerização de ambiente/
+-   Modelagem analítica
+-   Normalização de campo multi-valorado
+-   Criação de views para BI
+-   Agregações SQL
+-   Dockerização de ambiente
 -   Persistência de metadata do Metabase em MySQL
 
 ------------------------------------------------------------------------
@@ -239,19 +241,19 @@ O dashboard inclui:
 
 Demonstrar habilidades em:
 
--   Engenharia de Dados/
--   SQL avançado/
--   Construção de pipeline/
--   Modelagem para BI/
+-   Engenharia de Dados
+-   SQL avançado
+-   Construção de pipeline
+-   Modelagem para BI
 -   Criação de dashboards interativos
 
 ------------------------------------------------------------------------
 
 ## Próximas Evoluções
 
--   Implementar Star Schema/
--   Deploy em ambiente cloud (AWS)/
--   Automatização com Airflow/
+-   Implementar Star Schema
+-   Deploy em ambiente cloud (AWS)
+-   Automatização com Airflow
 -   Versionamento de views
 
 ------------------------------------------------------------------------
